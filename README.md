@@ -12,4 +12,4 @@
 ## Getting the code
    You can download the LTOP2 source files by navigating to your desired folder and running:
    
-         git clone https://github.com/Icbissell/LTOP-2_MATLAB.git 
+         git clone https://github.com/Icbissell/LTOP2_MATLAB.git 
